@@ -1,5 +1,5 @@
 describe("CourseItem.vue", () => {
-  it("renders the props", () => {});
+  it("renders the props ok", () => {});
 
   it("emits an add course event", () => {});
 
